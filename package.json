@@ -1,0 +1,23 @@
+{
+  "name": "html-pad-left",
+  "version": "1.0.0",
+  "description": "A function that prepends HTML white space characters to a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "pad",
+    "left",
+    "html",
+    "whitespace",
+    "nbsp"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
+
